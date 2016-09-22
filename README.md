@@ -8,4 +8,5 @@
 Credit: "Global Map of Bulgaria ©ISCGM/ The Agency by Geodesy, cartography and cadastre, Bulgaria"
 
 Contact: The Agency by Geodesy, cartography and cadastre.
+
 E-mail: ![email](https://www.iscgm.org/gmd/images/email/bulgaria.png)
